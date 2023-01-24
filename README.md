@@ -1,9 +1,9 @@
 # Support
 Config files for my GitHub profile.
 
-- 👋 Hi, I’m @muthu1999mani
-- 👀 I’m interested in Web Developing...
-- 🌱 I’m currently learning Laravel and Full Stack Developer...
+- 👋 Hi, I’m Muthu Manikandan
+- 👀 I’m a Full Stack Web Developer
+- 🌱 I’m currently learning Node.js...
 - 📫 How to reach me ... muthu1999mani@gmail.com
 
 
